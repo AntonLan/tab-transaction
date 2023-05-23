@@ -1,0 +1,1 @@
+export type TransactionStatusType = 'income' | 'outcome' | 'loan' | 'investment'
